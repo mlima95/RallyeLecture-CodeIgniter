@@ -40,3 +40,18 @@ Nous avons tout d'abord créée une base de données afin de traiter les informa
 * Pagination des livres après création :
 
 ![AprèsPagination](https://github.com/mlima95/RallyeLecture-CodeIgniter/blob/master/PaginationApresCr%C3%A9ationLivre.PNG)
+
+
+## Languages
+```
+
+- PHP
+
+```
+## Outils
+```
+- NetBean
+- CodeIgniter
+- Sublime Text (Editor)
+
+```
