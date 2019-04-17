@@ -7,6 +7,8 @@ Le projet est divisé en 3 grandes parties:
 * Un quizz sur les livres. 
 * Une connexion Administrateur / Utilisateur.
 
+Mais ici la situation présenté est la gestion des livres (pagination et upload)
+
 Nous avons tout d'abord créée une base de données afin de traiter les informations : 
 ![Bdd](https://github.com/mlima95/Rallye-Lecture-Csharp/blob/master/schemaDbRallyeLecture.PNG)
 
